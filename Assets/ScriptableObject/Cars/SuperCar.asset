@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 542fcc40ce5211442bc6729015ab99c0, type: 3}
+  m_Name: SuperCar
+  m_EditorClassIdentifier: 
+  _maxSpeed: 80
+  _increaseSpeed: 5
+  _decreaseSpeed: 1.5
+  _fuelFlow: 2
+  _fuelMax: 75
+  _zombieInfluence: 3
+  _type: {fileID: 1248598967819147742, guid: c4cad50aa03bbca42938fe318344950b, type: 3}
+  _img: {fileID: 0}
+  _cost: 1000
